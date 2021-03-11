@@ -6,7 +6,8 @@ function main() {
     console.log('Hello World!');
     // Only change the code above this line
 }
-var fooCat;
+
+10 / 5 === 1 ? fooCat;
 
 /*main();*/
 
