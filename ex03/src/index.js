@@ -1,6 +1,3 @@
-//Making comments in index.js first
-
-
 function main() {
     // Only cchange code below this line 
     console.log('Hello World!');
@@ -9,6 +6,5 @@ function main() {
 
 10 / 5 === 1 ? fooCat;
 
-/*main();*/
 
 module.exports = main;
