@@ -1,9 +1,3 @@
-drawCats = 5;
-
-myCat = 5;
-ourCats = myCat;
-
-
 function main() {
     // Only cchange code below this line 
     return [x, y];

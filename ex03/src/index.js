@@ -1,7 +1,7 @@
 function main() {
     // Only cchange code below this line 
 
-    10 / 5 === 1 ? fooCat;
+    10 / 5 === x ? fooCat;
     // Only change the code above this line
 }
 
