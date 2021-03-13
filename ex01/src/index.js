@@ -1,6 +1,3 @@
-//Making comments in index.js first
-
-
 function main() {
     // Only cchange code below this line 
     console.log('Hello World!');
@@ -8,5 +5,4 @@ function main() {
 }
 
 main()
-
 module.exports = main;
