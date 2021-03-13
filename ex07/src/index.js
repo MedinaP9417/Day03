@@ -1,23 +1,23 @@
 function main() {
     // Only cchange code below this line 
+    //Variable declarations
+    var studlyCapVar;
+    var properCamelCase;
+    var titleCaseOver;
+    //Variable assignments
     var studlyCapVar = 10;
     var properCamelCase = "A String";
     var titleCaseOver = 9000;
-    // Variable assignments
 
     // Only change the code above this line
 
-    return [studlyCapVar,
+    return {
+        studlyCapVar,
         properCamelCase,
         titleCaseOver
-    ];
+    }
 }
 
 
-
-console.log(main()); // 
-
-
-
-
+console.log(main());
 module.exports = main;

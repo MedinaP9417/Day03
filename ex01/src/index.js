@@ -1,12 +1,4 @@
-mkdir ex01
-npm init - y // Initialize project in Day03
-console.log('Hello World!');
-code. // Open VSC in this folder
-
-
-cd ex01
-code ex01 // Opens VSC in ex01 folder
-
+//Making comments in index.js first
 
 
 function main() {
@@ -15,6 +7,6 @@ function main() {
     // Only change the code above this line
 }
 
-main();
+main()
 
 module.exports = main;

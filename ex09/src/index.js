@@ -1,28 +1,13 @@
 function main(numOne, numTwo) {
     // Only cchange code below this line 
-
-    let numOne = 15;
-    let numTwo = 8;
-    sum = numOne - numTwo;
-
-    let numOne = 28;
-    let numTwo = 5;
-    sum = numOne - numTwo;
-
-    let numOne = 425;
-    let numTwo = 150;
-    sum = numOne - numTwo;
-
+    var difference = numOne - numTwo;
 
     // Only change the code above this line
     return difference;
 }
 
-
-
-console.log(main(numOne - numTwo)); // 7, 17, 305
-
-
-
+console.log(main(15, 8)); // change this line
+console.log(main(25, 8));
+console.log(main(425, 120));
 
 module.exports = main;
